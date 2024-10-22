@@ -9,4 +9,3 @@ To install this project, clone the repository and run the following commands:
 ```bash
 git clone https://github.com/CollinCreech/Hive_Defender.git  
 cd Hive-Defender  
-npm install
